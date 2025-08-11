@@ -1,0 +1,9 @@
+{
+  "name": "parse-invoice-fn",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "pdf-parse": "^1.1.1",
+    "@vercel/node": "^5.3.11"
+  }
+}
